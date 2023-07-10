@@ -4,7 +4,7 @@ import "./style.scss";
 
 import ContentWrapper from "../../../componants/contentWrapper/ContentWrapper";
 // import { PlayIcon } from "../playIcon";
-import { PlayIcon } from "../Playbtn";
+import  PlayIcon  from "../Playbtn";
 import VideoPopup from "../../../componants/videoPopup/VideoPopup";
 import Img from "../../../componants/lazyLoadImage/Img";
 
